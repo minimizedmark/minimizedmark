@@ -1,0 +1,11 @@
+{
+  "name": "grok-hvac-saas",
+  "version": "1.0.0",
+  "dependencies": {
+    "next": "latest",
+    "@supabase/supabase-js": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
